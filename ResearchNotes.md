@@ -10,3 +10,19 @@ Nowadays , Everyone is using IT technologies for everything , not only for watch
 A ***Cyberattacks*** is an attempt by an individual or group that we often call ***Hackers*** to breach , damage ,or disrupt computer systems ,networks ,or digital devices , often for malicious purposes such as data theft , espionage ,financial fraud ,or system sabotage.
 
 Just think about cyberattacks  like if someone just get all of your money in your bank account without you noticing , pretty bad right? , So we need Cybersecurity mainly for protecting everyone's data from hackers .
+
+
+# Kronos hack 
+
+## What is Kronos? 
+Kronos was named after Greek Titan, father of Olympics.
+However , the Kronos itself is time-and-attendance software that is used by businesses such as healthcare, retail, government, manufacturing, and education to pay their employees on time and process the payrolls. 
+
+
+
+
+
+**Reference notes** 
+
+https://onerep.com/blog/kronos-data-breach-what-to-know-about-the-attack 
+
