@@ -12,11 +12,10 @@ A ***Cyberattacks*** is an attempt by an individual or group that we often call 
 Just think about cyberattacks  like if someone just get all of your money in your bank account without you noticing , pretty bad right? , So we need Cybersecurity mainly for protecting everyone's data from hackers .
 
 
-# Kronos hack 
+# Wanna_cry ransomware attack 
 
-## What is Kronos? 
-Kronos was named after Greek Titan, father of Olympics.
-However , the Kronos itself is time-and-attendance software that is used by businesses such as healthcare, retail, government, manufacturing, and education to pay their employees on time and process the payrolls. 
+## What is Wanna_cry ransomware attack? 
+Wanna_cry ransomware attack was cybersecurity breach that happened in May of 2017. It was targeted on old Windows at that time (Windows 7) and the hackers used vulnerability of Windows that is known as EternalBlue to hack systems of goverment, companies , hospitals in 150 countries. 
 
 
 
@@ -24,5 +23,8 @@ However , the Kronos itself is time-and-attendance software that is used by busi
 
 **Reference notes** 
 
-https://onerep.com/blog/kronos-data-breach-what-to-know-about-the-attack 
+[https://onerep.com/blog/kronos-data-breach-what-to-know-about-the-attack ](https://hawkeyeforensic.com/wannacry-ransomware-attack-case-study-digital-forensics-analysis/) 
+
+https://www.freecodecamp.org/news/eternalblue-explained-an-analysis-of-the-windows-flaw/ 
+
 
