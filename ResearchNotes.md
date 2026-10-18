@@ -17,7 +17,8 @@ Just think about cyberattacks  like if someone just get all of your money in you
 ## What is Wanna_cry ransomware attack? 
 Wanna_cry ransomware attack was cybersecurity breach that happened in May of 2017. It was targeted on old Windows at that time (Windows 7) and the hackers used vulnerability of Windows that is known as EternalBlue to hack systems of goverment, companies , hospitals in 150 countries. 
 
-
+## How did Wanna_cry work? 
+On monitors of over 100,000 computers in 150 countries 
 
 
 
