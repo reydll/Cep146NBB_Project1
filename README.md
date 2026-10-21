@@ -1,6 +1,13 @@
 # Cep146NBB_Project1
 
-Project Name
+Video link : 
+
+
+Canva link : 
+
+
+Chosen topic : 
+   Major cybersecurity incident 
 Team Members: 
 1) Raisa Ganbarova
    Student number: 139265250 
