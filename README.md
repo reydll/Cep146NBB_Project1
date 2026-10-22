@@ -3,8 +3,8 @@
 Video link : 
 
 
-Canva link : 
-
+Presentation slideshow link : 
+https://canva.link/1p4fttmba3qh6k5 
 
 Chosen topic : 
    Major cybersecurity incident 
