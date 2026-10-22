@@ -9,8 +9,7 @@ Nowadays , Everyone is using IT technologies for everything , not only for watch
 ### Don't really get what ***Cyberattacks*** is ?
 A ***Cyberattacks*** is an attempt by an individual or group that we often call ***Hackers*** to breach , damage ,or disrupt computer systems ,networks ,or digital devices , often for malicious purposes such as data theft , espionage ,financial fraud ,or system sabotage.
 
-Just think about cyberattacks  like if someone just get all of your money in your bank account without you noticing , pretty bad right? , So we need Cybersecurity mainly for protecting everyone's data from hackers .
-
+Just think about cyberattacks. Imagine someone stealing all the money from your bank account without you even noticing. Pretty bad, right? That's why we need cybersecurity: to protect our personal information, financial data, computer systems, and networks from hackers and other cyber threats.
 
 # Wanna_cry ransomware attack 
  
@@ -28,6 +27,7 @@ Eternal Blue was hacking method NSA created to spy on different countries govern
 
 
 **Reference notes** 
+[What is Cybersecurity?]
 
 [https://onerep.com/blog/kronos-data-breach-what-to-know-about-the-attack ](https://hawkeyeforensic.com/wannacry-ransomware-attack-case-study-digital-forensics-analysis/) 
 
