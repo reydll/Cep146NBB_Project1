@@ -2,7 +2,7 @@
 
 ### Cybersecurity attack 
 
-But does cybersecurity ever work as it should? No, it rarely does. As example of major cybersecurity breach can be Wanna_cry ransomware attack.
+But does cybersecurity ever work as it should? Not always. As example of major cybersecurity breach can be Wanna_cry ransomware attack.
 It all started in 2017 when over 100 thousand computers received a one big red screen explaining in poor English on what happened to the computer, how to send payment to free the computer and restore all your data. What was Wanna_cry? Suprisingly or not it was made by same people who were supposed to make sure our cybersecurity is safe. National Security Agency found a vulnerability inside Windows 7 and older that allowed them to create ability to get access to person's personal information remote and used it for years to spy on different countries, terrorists, and people themselves. They called the program "Eternal Blue". However, even National Security isn't always safe. in 2017 they got hacked by unknown group of people who let the files in open space inside of dark web, but it was too late. The Windows already created new patch where they fixed the problem and very slowly people started updating their operating system. 
 
 
