@@ -1,3 +1,9 @@
+### cybersercurity 
+
+Everyone is right now using the IT technology for everything , storing there data , information whether it is personal or not , playing games and etc. And those **data** we have to secure them from all malcious people that we call **HACKERS** . There is actually 3 types of Hackers , but here we talk about the **BLACK HAT** type ,who have the purpose to steal one's information and use them illegaly and as they want . These Hackers use what we call **CYBERATTACKS** for that. There is some popular that everyone has maybe already heard , which are ***phishing*** which is the act of sending fake email or messages ,use of ***malware*** as virus and worms , and ***ransomware***.
+But there is a lot more , as right know , with the advance of AI there is even a cyberattack which is capable of copying and using a common voice or even a common face .
+So remember **ALWAYS STAY SAFE !**
+
 
 
 ### Cybersecurity attack 
