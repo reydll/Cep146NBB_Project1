@@ -19,13 +19,15 @@ Team Members:
       Did research on major cybersecurity incident story
       did slideshow page 2 (About Wanna_cry work)
       Did presentation voice. 
-3) Adrianna Wong
+      
+2) Adrianna Wong
    Student number: 100474261
 
    ***Member role:***
    Did research on how cybersecurity works
-   did slideshow 
-5) Malalaniaina Mirana Rakotondrazaka
+   did slideshow
+   
+3) Malalaniaina Mirana Rakotondrazaka
    Student number:132350257
    
    ***Member role:***
